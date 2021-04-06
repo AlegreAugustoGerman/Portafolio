@@ -2,6 +2,6 @@
 .section-proyectos{display: flex; justify-content: space-evenly;flex-wrap: wrap;}
 .section__list-proyectos{list-style: none;padding: 0; margin: 0;}
 .section__list-proyectos:nth-child(1){display: flex; flex-wrap: wrap;}
-.list__item-proyectos{width:33%;}
+.list__item-proyectos{width:33%;  gap: 1%;}
 .section-info-descripcion{text-align: center;}
-.item__img-portafolio{width: 100%;  } 
+.item__img-portafolio{width: 100%; } 
