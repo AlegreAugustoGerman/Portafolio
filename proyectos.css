@@ -1,7 +1,7 @@
-.--Ancho{width:100%;}
+.--Ancho{width:100%; text-align: center;}
 .section-proyectos{display: flex; justify-content: space-evenly;flex-wrap: wrap;}
 .section__list-proyectos{list-style: none;padding: 0; margin: 0;}
 .section__list-proyectos:nth-child(1){display: flex;}
 .list__item-proyectos{}
-.section-info-descripcion{}
-.item__img-portafolio{width: 100%;}
+.section-info-descripcion{text-align: center;}
+.item__img-portafolio{width: 100%;} 
