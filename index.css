@@ -108,13 +108,18 @@ cursor: pointer;
  color: white;
 }
 /*=============================================*/
-.Dowload-Curriculum{position: absolute; left: 45%;  top: 22%;
+.Dowload-Curriculum{
+    position: absolute; 
+    width: 30%;
+    left: 35%;  top: 15%;
     background: rgba(0, 0, 0, 0.3);
     border:none;color:#fff;
     border-top: solid 1px greenyellow;
     cursor: pointer;
      }
 .sobremi{ 
+    position: absolute;
+    left: 17%;  top: 16%;
     text-decoration: overline;
     text-align: center;
    
@@ -156,7 +161,8 @@ display: flex; justify-content: space-evenly;opacity: 0.5;}
     .menu__item{
         border-top:solid 0.1px #fff;
     }
-    .Dowload-Curriculum{position: relative;}
+    .Dowload-Curriculum{position: relative; }
+    .sobremi{top: 21%;left: 11%;}
 }
 
 

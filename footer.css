@@ -6,13 +6,13 @@ footer  {
     overflow: hidden;
     
 }           
-footer  [class^="icon-"] {
+a img {
     display: inline-block;
-    color: #333;
+    
     text-decoration: none;
     font-size: 35px;
+  
     
-    background: white;
     border-radius: 50%;
     
     width: 50px;
